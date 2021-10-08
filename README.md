@@ -12,6 +12,7 @@
 <p align='center'>
     </p>
 
+https://heroku.com/deploy?template=https://github.com/exindo/BOTZ
 -------
 
 ## `ADD BUILDPACK`
